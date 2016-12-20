@@ -1,0 +1,15 @@
+{
+    "name": "Yekaterina Totskaya",
+    "short_name": "Totskaya",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "favicons/favicon-196x196.png"
+            "sizes": "196x196",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#F8F8FF",
+    "theme_color": "#B5DBE8"
+}
