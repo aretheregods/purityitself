@@ -5,7 +5,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "images/YSupergirl.png"
+            "src": "images/YSupergirl.png",
             "sizes": "652x634",
             "type": "image/png"
         }
