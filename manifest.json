@@ -5,8 +5,8 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "favicons/favicon-196x196.png"
-            "sizes": "196x196",
+            "src": "images/YSupergirl.png"
+            "sizes": "652x634",
             "type": "image/png"
         }
     ],
